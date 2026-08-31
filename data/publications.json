@@ -3,8 +3,8 @@
   "orcid": "0000-0003-4012-9557",
   "source": "ORCID",
   "google_scholar": "https://scholar.google.com/citations?user=l6LJdzAAAAAJ&hl=en",
-  "updated": "2026-08-28T00:55:44Z",
-  "publication_count": 41,
+  "updated": "2026-08-31T15:50:37Z",
+  "publication_count": 42,
   "publications": [
     {
       "title": "Cholestasis in Alcohol-Associated Liver Disease",
@@ -26,6 +26,17 @@
       "pmid": "",
       "pubmed_url": "",
       "url": "https://doi.org/10.1080/27694127.2026.2698350",
+      "type": "journal-article"
+    },
+    {
+      "title": "Alcohol reshapes liver zonal plasticity and immune-metabolic reprogramming in metabolic-syndrome associated hepatocellular carcinoma",
+      "year": "2026",
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-026-77089-9",
+      "doi_url": "https://doi.org/10.1038/s41467-026-77089-9",
+      "pmid": "",
+      "pubmed_url": "",
+      "url": "http://dx.doi.org/10.1038/s41467-026-77089-9",
       "type": "journal-article"
     },
     {
