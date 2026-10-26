@@ -3,8 +3,8 @@
   "orcid": "0000-0003-4012-9557",
   "source": "ORCID",
   "google_scholar": "https://scholar.google.com/citations?user=l6LJdzAAAAAJ&hl=en",
-  "updated": "2026-10-19T15:16:58Z",
-  "publication_count": 42,
+  "updated": "2026-10-26T14:51:02Z",
+  "publication_count": 43,
   "publications": [
     {
       "title": "Cholestasis in Alcohol-Associated Liver Disease",
@@ -37,6 +37,17 @@
       "pmid": "",
       "pubmed_url": "",
       "url": "http://dx.doi.org/10.1038/s41467-026-77089-9",
+      "type": "journal-article"
+    },
+    {
+      "title": "Alcohol Liver Pathology Signature: A Composite Histological Pattern for Differentiating Alcohol–associated Liver Disease from Metabolic Dysfunction–associated Steatotic Liver Disease",
+      "year": "2026",
+      "journal": "Journal of Clinical and Translational Pathology",
+      "doi": "10.14218/jctp.2026.00017",
+      "doi_url": "https://doi.org/10.14218/jctp.2026.00017",
+      "pmid": "",
+      "pubmed_url": "",
+      "url": "http://dx.doi.org/10.14218/jctp.2026.00017",
       "type": "journal-article"
     },
     {
